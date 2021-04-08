@@ -6,7 +6,7 @@ path="./detections_only/MOT16/"
 #output="output_CNN_features.txt"
 output="output.txt"
 
-motdir="../deep_sort/MOT16/train/"
+motdir="./MOT16/train/"
 
 results="./results/"
 
